@@ -1,7 +1,7 @@
 const empId = 1234
 let empEmail = "testEmp@test.com"
 var empAccount = "98765"
-empCity = "Delhi"
+empCity = "Delhi" //Nor a professional way to declare variables
 let empState;
 
 // empId = 2 // not allowed as it's defined as constant
